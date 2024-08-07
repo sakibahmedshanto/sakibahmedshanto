@@ -7,7 +7,7 @@
 
 - 👯 I’m working with a Rover team **Project Altair**
 
-- 💬 Ask me about **Flutter , Arduino , Competitive Programming**
+- 💬 Ask me about **Flutter ,Android Development, , Arduino , Competitive Programming**
 
 - 📫 How to reach me **sakibsanto57@gmail.com**
 
