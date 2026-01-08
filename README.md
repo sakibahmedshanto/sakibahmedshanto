@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sakib Ahmed Shanto</h1>
 <h3 align="center">A passionate Android developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-- 🔭 I’m currently working on [Pastry Paradise](https://github.com/sakibahmedshanto/pastryparadise)
+- 🔭 I’m currently working as a freelancer.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m working with a Rover team **Project Altair**
 
-- 💬 Ask me about **Flutter ,Android Development, , Arduino , Competitive Programming**
+- 💬 Ask me about **Flutter, Android Development, Arduino , Competitive Programming**
 
 - 📫 How to reach me **sakibsanto57@gmail.com**
 
